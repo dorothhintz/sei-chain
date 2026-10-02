@@ -1,4 +1,4 @@
-# Sei
+# Sei 
 
 ![Banner!](assets/SeiLogo.png)
 
